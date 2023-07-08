@@ -1,7 +1,5 @@
 # nord_female
 
-# nord_kidney
-
 ## Introduction
 This Repository shows R code and source data used in the publication [*Survival, Incidence, and Mortality Trends in Female Cancers in the Nordic Countries*](https://www.hindawi.com/journals/ogi/2023/6909414/), published in the journal *Obstetrics and Gynecology International*
 
